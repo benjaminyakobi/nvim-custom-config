@@ -8,7 +8,7 @@
 
 ### kickstart.nvim
 
-[Youtube videio](https://www.youtube.com/watch?v=CNYqPnaCgJw)
+[Youtube video](https://www.youtube.com/watch?v=CNYqPnaCgJw)
 
 [Github kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim/blob/master/init.lua)
 
